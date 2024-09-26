@@ -5,7 +5,7 @@
 <p>This project didn't have many challenges, but rather learning, despite being very simple, it is very complete</p>
 
 <h1>What have you improved in your skills?👨🏻‍💻</h1>
-<p>helped me better understand react rendering, the basic principles of a crud and how to manipulate states</p> //aqui
+<p>helped me understand how to manipulate arrays, work with the image component of next.js</p> 
 
 <h1>What did I use in this project?⚙️</h1>
 <h2>⌨️ Languages/Others</h2>
@@ -22,3 +22,7 @@
 <p>TAILWIND CSS</p>
 
 <h1>Demonstrating the project</h1>
+
+
+https://github.com/user-attachments/assets/ce3ef965-01ca-40bc-9b7e-49723ed818c7
+
